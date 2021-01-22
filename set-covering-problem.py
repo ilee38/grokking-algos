@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-""" The set covering problem with a greedy algorithm
+"""
+  The set covering problem with a greedy algorithm
 """
 def main():
   states_needed = set(['mt', 'wa', 'or', 'id', 'nv', 'ut', 'ca', 'az'])
